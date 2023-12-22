@@ -1,0 +1,12 @@
+[submodule "action-first"]
+	path = action-first
+	url = git@github.com:sthasam2/action-first.git
+[submodule "action-second"]
+	path = action-second
+	url = git@github.com:sthasam2/action-second.git
+[submodule "action-third"]
+	path = action-third
+	url = git@github.com:sthasam2/action-third.git
+[submodule "action-test"]
+	path = action-test
+	url = git@github.com:sthasam2/action-test.git
